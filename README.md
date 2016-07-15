@@ -1,4 +1,3 @@
 # helloworld
  
-Let's get productive.
-
+Let's get productive!
